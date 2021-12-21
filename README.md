@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maattheusdesousa
-- 👀 I’m interested in HTML
+- 👀 I’m interested in HTML/CSS
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sousamb21@outlook.com
